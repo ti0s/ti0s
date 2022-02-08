@@ -6,7 +6,7 @@
 
 Hi, I'm [Ti0s!](https://www.ti0s.com/), My Blog is [Ti0s's Blog](https://www.ti0s.com),I am an information security engineer.
 
-  <img align="right" alt="GIF" src="https://github.com/RedTeamWing/RedTeamWing/blob/master/code.gif?raw=true" width="300" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/RedTeamWing/RedTeamWing/blob/master/code.gif?raw=true" width="400" height="280" />
   
 **🤡Talking Wing🤡:**
 
