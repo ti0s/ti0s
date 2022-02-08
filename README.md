@@ -17,6 +17,17 @@ Hi, I'm [Ti0s!](https://www.ti0s.com/), My Blog is [Ti0s's Blog](https://www.ti0
 - 📌 Blog:[Ti0s's Blog](https://www.ti0s.com)
 
 
+
 <br/>
+
+
+在未来或许会开源的几个工具:
+- Ti0s-Docker-Agent: Docker Api 适用于分布式应用Docker(Golang)
+- Ti0s-WebScan: Web自动化分布式扫描器(Vue+Python3+Celery)
+- Ti0s-InnerScan: 内网横向扫描工具,二开fscan(Golang)
+- Ti0s-AV: Shellcode静态免杀工具,支持多种加密方式以及加载方式,BypassEDR(Golang+C)
+- Ti0s-SharpScan: 域渗透自动化工具,还没开始动笔(.NET)
+- Ti0s-Poc: X-WebScan的漏洞扫描插件(Pocsuite3)
+
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=XTeam-Wing&show_icons=true&theme=vue" alt="RedTeamWing" />
